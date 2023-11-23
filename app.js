@@ -284,4 +284,4 @@
     
 // }
 
-// tengStrings("salom","aliw")
+// tengStrings("salom","weqr")
