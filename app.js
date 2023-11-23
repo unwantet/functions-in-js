@@ -8,7 +8,7 @@
 // noldan(5)
 
 
-///////////////////////////////////////
+// /////////////////////////////////////
 
 // function ichkiBurchaklar(n) {
 //     n = (n - 2) * 180;
@@ -18,7 +18,7 @@
 // ichkiBurchaklar(3)
 
 
-///////////////////////////////////////////
+// /////////////////////////////////////////
 
 // function ochkolar(x,y) {
 //     x=x*2;
@@ -243,7 +243,7 @@
 // litrMasofa(12)
 
 
-///////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
 
 
 // function fun(a,b) {
@@ -266,3 +266,22 @@
 
 //   console.log(arr("salomat", 42));
 
+// function tengStrings(a, b) {
+//     let y = 0;
+//     let q = 0;
+//     for (let x = 0; x < a.length; x++)  {
+//         y++;
+//     } 
+//     for (let w = 0; w < b.length; w++)  {
+//         q++;
+//     } 
+//     if (y==q) {
+//         console.log(true);
+//     }
+//     else{
+//         console.log(false);
+//     }
+    
+// }
+
+// tengStrings("salom","aliw")
